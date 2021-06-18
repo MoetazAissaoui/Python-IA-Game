@@ -1,5 +1,3 @@
-# Daoud Anas - Aissaoui Moetez - Barkewi Mohammed - 2CS4
-
 from copy import deepcopy
 import time
 
@@ -209,5 +207,3 @@ for i in trace :
   niveaux+=1
 print("Résultat trouvée après",niveaux-1," iterations .")
 print ('Temps dexecution: %0.2fs' % (time.time()-start))
-
-# Daoud Anas - Aissaoui Moetez - Barkewi Mohammed - 2CS4
